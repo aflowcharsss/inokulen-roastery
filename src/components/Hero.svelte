@@ -1,6 +1,6 @@
 <div class="hero relative tracking-wider">
 	<div class="image">
-		<img src="/static/hero-inokulen.jpg" alt="Inokulen Hero" />
+		<img src="./images/hero-inokulen.jpg" alt="Inokulen Hero" />
 	</div>
 
 	<div class="absolute top-0 left-0 w-full h-full bg-gray-800 opacity-30" />

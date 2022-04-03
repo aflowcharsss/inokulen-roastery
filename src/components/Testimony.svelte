@@ -1,14 +1,14 @@
 <script>
 	let testimonies = [
 		{
-			profileImage: '/static/testimony-2.jpg',
+			profileImage: './images/testimony-2.jpg',
 			profileName: 'Afochar Syabnirusmanto',
 			profileOccupation: 'Kang Ngopi',
 			description: 'Saya telah mencoba berbagai jenis kopi dari bermacam sumber. Dan Inokulen TOP!',
 			numRate: 4.5
 		},
 		{
-			profileImage: './static/testimony-1.jpg',
+			profileImage: './images/testimony-1.jpg',
 			profileName: 'Kateline Ellice',
 			profileOccupation: 'Coffee Lovers',
 			description:

@@ -1,7 +1,7 @@
 <script>
 	let catalogs = [
 		{
-			image: '/static/katalog-1.jpg',
+			image: './images/katalog-1.jpg',
 			title: 'Kopi Sajang',
 			numRate: 4.9,
 			totalRate: 32,
@@ -9,7 +9,7 @@
 			price: 192000
 		},
 		{
-			image: '/static/katalog-2.jpg',
+			image: './images/katalog-2.jpg',
 			title: 'Kopi Santong',
 			numRate: 4.5,
 			totalRate: 102,
@@ -17,7 +17,7 @@
 			price: 185000
 		},
 		{
-			image: '/static/katalog-3.jpg',
+			image: './images/katalog-3.jpg',
 			title: 'Kopi Gayo',
 			numRate: 4.8,
 			totalRate: 90,
@@ -25,7 +25,7 @@
 			price: 150000
 		},
 		{
-			image: '/static/katalog-4.jpg',
+			image: './images/katalog-4.jpg',
 			title: 'Kopi Papandayan',
 			numRate: 4.6,
 			totalRate: 72,

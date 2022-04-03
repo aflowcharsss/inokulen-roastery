@@ -76,7 +76,7 @@
 			</div>
 			<div class="center">
 				<a href="https://kit.svelte.dev">
-					<img class="w-20 h-20 object-cover" src="/static/logo-nav.png" alt="SvelteKit" />
+					<img class="w-20 h-20 object-cover" src="./images/logo-nav.png" alt="SvelteKit" />
 				</a>
 			</div>
 			<div class="right flex items-center space-x-6">
@@ -143,17 +143,17 @@
 			<li class:active={$page.url.pathname === '/about'}>
 				<a sveltekit:prefetch href="/about">Biji Pilihan</a>
 			</li>
-			<li class:active={$page.url.pathname === '/todos'}>
-				<a sveltekit:prefetch href="/todos">Menu Kopi</a>
+			<li class:active={$page.url.pathname === '/about'}>
+				<a sveltekit:prefetch href="/about">Menu Kopi</a>
 			</li>
-			<li class:active={$page.url.pathname === '/todos'}>
-				<a sveltekit:prefetch href="/todos">Cerita Petani</a>
+			<li class:active={$page.url.pathname === '/about'}>
+				<a sveltekit:prefetch href="/about">Cerita Petani</a>
 			</li>
-			<li class:active={$page.url.pathname === '/todos'}>
-				<a sveltekit:prefetch href="/todos">Kontak Aja</a>
+			<li class:active={$page.url.pathname === '/about'}>
+				<a sveltekit:prefetch href="/about">Kontak Aja</a>
 			</li>
-			<li class:active={$page.url.pathname === '/todos'}>
-				<a sveltekit:prefetch href="/todos">Tentang Kami</a>
+			<li class:active={$page.url.pathname === '/about'}>
+				<a sveltekit:prefetch href="/about">Tentang Kami</a>
 			</li>
 		</ul>
 		<!-- <svg viewBox="0 0 2 3" aria-hidden="true">
